@@ -1,0 +1,7 @@
+10.0.0.0/8:
+  metadata:
+    .geo.loc.coord: 48.167106,11.486918
+    .geo.city.name: Munich
+    .geo.country.code: DE
+    .geo.country.name: Germany
+    .geo.tz.name: Europe/Berlin
